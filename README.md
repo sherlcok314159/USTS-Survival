@@ -8,6 +8,6 @@
 | 课程名称  | 考试类型 |
 |-------|------------------------------|
 | [Web应用开发技术基础](https://github.com/sherlcok314159/USTS-Survival/tree/main/2021%E7%A7%8B/Web) | 开卷|
-| [学术英语]()| 闭卷|
-| [大学物理下]() | 闭卷|
+| [学术英语](https://github.com/sherlcok314159/USTS-Survival/tree/main/2021%E7%A7%8B/%E5%AD%A6%E6%9C%AF%E8%8B%B1%E8%AF%AD)| 闭卷|
+| [大学物理下](https://github.com/sherlcok314159/USTS-Survival/blob/main/2021%E7%A7%8B/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E4%B8%8B/x.md) | 闭卷|
 | [马克思主义基本原理](https://github.com/sherlcok314159/USTS-Survival/tree/main/2021%E7%A7%8B/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86)  |闭卷  | 

@@ -15,3 +15,4 @@
 | [电子电路与数字逻辑](https://github.com/sherlcok314159/USTS-Survival/tree/main/2021%E7%A7%8B/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E4%B8%8E%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91) | 闭卷 |
 | [数据结构](https://github.com/sherlcok314159/USTS-Survival/tree/main/2021%E7%A7%8B/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84) | 闭卷 |
 | [物理实验](https://github.com/sherlcok314159/USTS-Survival/blob/main/2021%E7%A7%8B/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%8F%82%E8%80%83%E6%95%B0%E6%8D%AE.md) | 摸鱼 |
+| [电路实践](https://github.com/sherlcok314159/USTS-Survival/blob/main/2021%E7%A7%8B/%E7%94%B5%E8%B7%AF%E5%AE%9E%E8%B7%B5/%E5%8F%82%E8%80%83%E6%95%B0%E6%8D%AE.md) | 摸鱼 |

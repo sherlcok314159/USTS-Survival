@@ -27,7 +27,7 @@
 #### 大二下(部分考试因线上授课由闭卷转为开卷)
 | 课程名称  | 考试类型 |
 |-------|------------------------------|
-| [基于.Net的应用开发技术]() | 闭卷|
+| [基于.Net的应用开发技术](https://github.com/sherlcok314159/USTS-Survival/tree/main/2022%E6%98%A5/%E5%9F%BA%E4%BA%8E.Net%E7%9A%84%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF) | 闭卷|
 | [JAVA EE开发技术基础](https://github.com/sherlcok314159/USTS-Survival/blob/main/2022%E6%98%A5/JAVA%20EE%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE.md) | 开卷|
 | [数据库原理](https://github.com/sherlcok314159/USTS-Survival/blob/main/2022%E6%98%A5/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8E%9F%E7%90%86/%E5%BB%BA%E8%AE%AE.md) | 开卷|
 | [计算机组成原理]() | 开卷|

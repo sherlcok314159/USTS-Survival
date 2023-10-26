@@ -5,4 +5,4 @@
 
 课程推荐
 
-[2021～2022春季学期算法设计与分析](https://www.bilibili.com/video/BV17Y4y187Nr)
+2021～2022春季学期算法设计与分析：https://www.bilibili.com/video/BV17Y4y187Nr
